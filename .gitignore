@@ -1,0 +1,2 @@
+django/todo/__pycache__/*
+django/todo/db.sqlite3
