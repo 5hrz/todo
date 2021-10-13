@@ -1,2 +1,2 @@
-django/todo/__pycache__/*
-*.sqlite3
+__pycache__/
+db.sqlite3
